@@ -49,13 +49,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassin-code-69&theme=tokyo-night" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassin-code-69&theme=tokyonight" />
-</p>
 
 ---
 
 ### 🔥 Current Mindset
 
 > Consistency beats motivation.
+
+---
+
+
