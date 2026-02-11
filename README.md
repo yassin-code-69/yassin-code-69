@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=yassin-code-69&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🎓 CSE Student passionate about **AI & Problem Solving**
@@ -15,24 +13,17 @@
 - 🌱 Currently learning **Advanced STL, DSA & Machine Learning**
 - 🎯 Goal: Become a skilled **AI Engineer**
 
----
-
 ## 🧠 Competitive Programming
 
 - 💡 Regular contestant
 - 🏆 Improving algorithmic thinking daily
 - 📈 Solving problems consistently
 
----
-
 ## 🤖 Tech Interests
 
 - Machine Learning  
-- Large Language Models (LLMs)  
-- Backend Development  
+- Large Language Models (LLMs)    
 - System Optimization  
-
----
 
 ## 📫 Connect With Me
 
@@ -41,19 +32,20 @@
 - 🏆 Codeforces: [CF Profile](https://codeforces.com/profile/alin_666)  
 - 🍽 CodeChef: [CodeChef Profile](https://www.codechef.com/users/alin_666)
 
----
-
 ## 🛠 Languages & Tools
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40"/>
 
----
+</p>
 
 ## 📊 GitHub Stats
 
